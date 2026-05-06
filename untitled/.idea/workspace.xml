@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="untitled" targetName="untitled" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="209eb711-d6bc-459f-bbd3-7ce7499eb06b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/dist/babydlp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/private/writeup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/remote/babydlp.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/babyDLP/remote/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/brainrot/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/brainrot/dist/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/brainrot/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/brainrot/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/brainrot/private/writeup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/brainrot/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/dist/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/private/writeup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/remote/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factor.com/remote/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factordb.com/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factordb.com/dist/chall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factordb.com/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factordb.com/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factordb.com/private/writeup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/factordb.com/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/dist/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/remote/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton/remote/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/dist/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/remote/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/lepton2/remote/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/dist/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/private/gensolve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/remote/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/magic_curves/remote/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/vectorial-rsa/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/vectorial-rsa/dist/challenge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/vectorial-rsa/dist/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/vectorial-rsa/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/vectorial-rsa/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/what_the_hecc/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/what_the_hecc/dist/chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/what_the_hecc/dist/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/what_the_hecc/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/what_the_hecc/private/solve.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crypto/what_the_hecc/private/true_chall.sage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/er_titus/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/er_titus/dist/er_titus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/er_titus/private/er_titus_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/er_titus/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/er_titus/private/setup.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/er_titus/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/dist/challenge-misc-golf.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/private/slop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/golf/remote/src/chall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/dist/lost.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/private/solve/beautified.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/private/solve/beautified_v2.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/private/solve/part2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/private/src/challenge.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/lost/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/dist/chall.db3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/private/solve/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/private/solve/solve_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/private/source/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/private/source/mem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/perfect_bird/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../misc/sanity_check/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/dist/dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/solve/chal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/solve/chal_patched" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/solve/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/solve/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/solve/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/src/src.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/remote/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/remote/bin/chal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/remote/glibc/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/TRX_Bank/remote/glibc/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/dist/dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/exploit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/exploit.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/img/asm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/img/ds_chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/kpwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/bzImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/hashcash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/initramfs.cpio.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/kernel.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/baby_small/remote/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/dist/dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/chall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/chall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/glibc/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/glibc/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/poc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/remote/chall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/remote/chall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/remote/glibc/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/canon_event/remote/glibc/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/dist/dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/private/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/private/e.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/private/gadgets.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/private/helpers.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/private/helpers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/bzImage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/hashcash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/initramfs.cpio.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/dev_mem/remote/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/dist/dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/.gdb_history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/chall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/challenge" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/challenge_patched" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/remote/challenge" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/remote/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/remote/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/writeup_media/free.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/writeup_media/gdb_fs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/free_the_monsters/writeup_media/prompt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/dist/dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/chall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/src.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/remote/chall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/remote/glibc/ld-linux-x86-64.so.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pwn/virtual_insanity/remote/glibc/libc.so.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/dist/LLL.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/solve/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/source/core.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/source/core_obfuscated.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/source/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/source/intermediate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/LLL/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/dist/bytecode.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/dist/vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/solve/basic_disassembler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/solve/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/source/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/source/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/source/rc4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/source/vm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/indianess/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/description_molly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/description_molly_revenge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/dist/molly.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/dist/molly_revenge.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/img/Scylla_dump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/img/molly_dump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/img/molly_encoldpages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/img/static_first_view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/img/x64dbg_dump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/img/x64dbg_regions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/molly_dec.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/molly_dump.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/molly_revenge_dec.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/molly_solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/static_decryptor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/solve/static_decryptor_revenge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/molly+revenge/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/Description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/dist/chall.cbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/solution/Writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/solution/clambc_out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/solution/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.debug.linked.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.debug.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.debug.optimized.tmp.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.generated.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.linked.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/.__clambc_tmp/chall.optimized.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/chall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/chall.cbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/chall_source.cbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/constraint_gen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/out_contraints.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/correct_flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/good_form.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/good_size.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/one_char_wrong.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/one_char_wrong_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/one_char_wrong_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/rulemaster/private/src/trigger_tests/short_flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/sudoku/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/sudoku/dist/chall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/sudoku/private/chall.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/sudoku/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rev/sudoku/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/drizzle.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/app.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/hooks.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/lib/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/lib/server/db/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/lib/server/db/schema.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/routes/+layout.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/routes/+layout.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/routes/+page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/routes/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/src/routes/secret/+page.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/static/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/static/sup3rs3cr3tb4ckup.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/svelte.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/app/zip.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/ascql/remote/compose.test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/dist/baby-sandbox.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/private/exploit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/private/raw-request.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/challenge/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/challenge/chall/bot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/challenge/chall/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/challenge/chall/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/challenge/chall/views/iframe.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/challenge/chall/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/baby-sandbox/remote/compose.test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/dist/keeper.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/exploit/exploit-css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/exploit/gen_css.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/exploit/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/exploit/templates/connection-pool.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/exploit/templates/csrf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/exploit/templates/exploit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/bot/bot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/bot/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/bot/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/config/supervisord.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/static/css/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/static/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/static/js/mdb.umd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/templates/visit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/app/src/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/compose.test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/keeper/remote/setup.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/dist/online-python-editor.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/private/exploit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/private/flag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/private/writeup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/app/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/app/secret.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/app/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/app/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/online-python-editor/remote/config/supervisord.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/dist/chall.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/private/solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/remote/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/remote/chall/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/remote/chall/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/remote/compose.test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/zstego/remote/flag.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jhfaq3xT" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3D2mBose01mcBhvrA62d1Q63VZK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.untitled.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209eb711-d6bc-459f-bbd3-7ce7499eb06b" name="Changes" comment="" />
+      <created>1777488405227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777488405227</updated>
+      <workItem from="1777488406443" duration="631000" />
+      <workItem from="1777492024443" duration="18000" />
+      <workItem from="1777492061608" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+</project>
